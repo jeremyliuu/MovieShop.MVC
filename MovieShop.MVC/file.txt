@@ -1,0 +1,4 @@
+2020-04-16 10:16:46.3238|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|10:16:45.3704100
+2020-04-16 10:22:02.3644|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|System.Web.Mvc.ExceptionContext
+2020-04-16 10:23:08.9625|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|10:23:08.9525547
+2020-04-16 10:23:44.5621|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Attempted to divide by zero.

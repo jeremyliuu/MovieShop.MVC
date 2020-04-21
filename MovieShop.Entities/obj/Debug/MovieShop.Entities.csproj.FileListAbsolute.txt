@@ -1,0 +1,11 @@
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.pdb
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.csprojAssemblyReference.cache
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.pdb
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.dll.config
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.csproj.CopyComplete

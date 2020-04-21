@@ -1,0 +1,14 @@
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Services.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Services.pdb
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Data.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Entities.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Data.pdb
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Entities.pdb
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.csproj.CopyComplete
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.pdb
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\EntityFramework.dll
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Data.dll.config
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Entities.dll.config
+C:\Users\solom\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\EntityFramework.xml
